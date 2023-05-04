@@ -1,2 +1,4 @@
-# scorekeeper
-Cricket Manual Scorecard Automated System
+# SCOREKEEPER
+
+
+The "Cricket Scorecard" project is a PHP-Laravel based website that aims to provide users with real-time updates on cricket matches, team information, match schedules, player squads, individual player scores, and reviews/commentary. The website is designed with an intuitive user interface that addresses the shortcomings of existing systems and ensures that the website remains up-to-date with the latest scores and information. The admin interface allows the admin to update scores without any delays, including adding teams, matches, players, and individual scores. Users can access live scores, upcoming matches, each match's individual player score, and a history diagram of each individual match through a login system. Overall, this project provides an authentic viewing experience to users and an efficient system for administrators to update scores and maintain the website.
