@@ -1,0 +1,72 @@
+.link-custom {
+    text-align: end;
+}
+
+.link-custom :hover {
+    color: #eeff00;
+}
+
+.card-tag {
+    height: 38px;
+}
+
+.team {
+    border-radius: 15px;
+    background-color: #131035;
+    display: flex;
+}
+
+.team2 {
+    border-radius: 15px;
+    background-color: #131035;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.vs-match-card {
+    padding-bottom: 15px;
+}
+
+.pagination-cus {
+    display: flex;
+    justify-content: center;
+}
+
+.page-item-cus {
+    padding: 5px;
+}
+
+.page-item-cus a {
+    background-color: #131035;
+    font-family: "system-ui";
+    font-weight: bolder;
+    color: white;
+    border-radius: 10px;
+}
+
+.page-item-cus-selected a {
+    background-color: #ffc010 !important;
+}
+
+.page-item-cus :hover {
+    background-color: #ffc010 !important;
+    color: white !important;
+}
+
+.tab-btn-cus{
+    font-size: x-large;
+}
+
+.grid-item {
+    position: relative !important;
+}
+
+.chart-cus{
+    background-color: white;
+    display: unset;
+    padding: 25px;
+    border-radius: 10px;
+    width: 70%;
+}
+
+/* clip-path: polygon(20% 25.63%, 35% 0%, 100% 0%, 100% 75%, 85% 100%, 20% 100%); */
